@@ -8,7 +8,7 @@ Proposed Features
 
 Sample data and Groundtruth extraction
 ------
-- Stop sign at the right, zerba in the middle, no white lines.
+- Stop sign 25 meters away, zerba and text in the middle, no white lines.
 ![](https://i.ibb.co/jLBLLF1/Screenshot-from-2019-03-22-08-05-46.png)
 - Zebra only, no stop sign.
 ![](https://i.ibb.co/yh8VYz6/Screenshot-from-2019-03-22-08-06-25.png")
