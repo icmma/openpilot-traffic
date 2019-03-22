@@ -3,7 +3,7 @@ Proposed Features
 - Stop and go before stop sign.
 - Stop and go before traffic lights.
 - Vision based traffic sign/traffic light/white lines detection
-- Vision based traffic sign/traffic light/white lines localization
+- Vision/Geolocation based traffic sign/traffic light/white lines localization
 - Neural network models trained using comma2k19 drive data, better transfer learning from driving model.
 
 Sample data and Groundtruth extraction
