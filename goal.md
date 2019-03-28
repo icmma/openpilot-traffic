@@ -1,0 +1,1 @@
+my ultimate goal is build L3 driving system based on OP. Currently OP is able to make lane changes and can even make full turn if needed only issue is visual where it's limited on one EON which is not enough.  we will need 360 voew of car's surrounding before we could even get there besides thst logic is simple where it will have safety checks before proceeding just like relays.
