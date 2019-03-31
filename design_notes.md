@@ -22,9 +22,9 @@ Sample data and Groundtruth extraction
 ![](https://i.ibb.co/THcz2F9/Screenshot-from-2019-03-22-08-14-58.png")
 - White lines and traffic lights at night
 ![](https://i.ibb.co/d0dZLNW/Screenshot-from-2019-03-22-08-19-59.png")
-- Traffic lights messed up with car tail lights
+- Traffic lights messed up with car brake lights
 ![](https://i.ibb.co/pxgKk6j/Screenshot-from-2019-03-22-08-21-13.png")
-- Green traffic lights 50 meters away
+- Red traffic lights 50 meters away
 ![](https://i.ibb.co/PCmHqLL/Screenshot-from-2019-03-22-08-21-39.png")
--  Red traffic lights 50 meters away
+-  Green traffic lights 50 meters away
 ![](https://i.ibb.co/6g2Lf8c/Screenshot-from-2019-03-22-08-23-40.png")
